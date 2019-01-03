@@ -106,11 +106,11 @@
               <telegram>https://t.me/XtendedOfficial</telegram>
          </mido>
          <tissot>
-              <maintainer>AnuragRai (Dark-Matter7232)</maintainer> 
+              <maintainer>VishalKhatri (dvishalkhatri)</maintainer> 
               <devicename>MI A1 (tissot)</devicename>
-              <filename>Xtended-tissot-20181208-XP4-OFFICIAL-Release-v8.zip</filename>
+              <filename>Xtended-tissot-20190102-XP4-OFFICIAL-Release-v8.5.zip</filename>
               <buildtype>Stable</buildtype>
-              <download>https://netix.dl.sourceforge.net/project/xtended/tissot/Xtended-tissot-20181208-XP4-OFFICIAL-Release-v8.zip</download>
+              <download>https://netix.dl.sourceforge.net/project/xtended/tissot/Xtended-tissot-20190102-XP4-OFFICIAL-Release-v8.5.zip</download>
               <changelog>https://raw.githubusercontent.com/Xtended-Pie/vendor_xtended_DevicesOTA/xp/tissot_changelog.txt</changelog>
               <recovery>Use Cosmic Dan twrp Recovery</recovery>
               <gapps>https://OpenGapps.org</gapps>
